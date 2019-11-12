@@ -47,11 +47,4 @@ public class ICalFileGenerationController {
         generateICalUtils.responseWithIcsFile(response);
     }
 
-
-
-
-
-
-
-
 }
